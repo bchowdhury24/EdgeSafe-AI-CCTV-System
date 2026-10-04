@@ -1,8 +1,8 @@
-# 🎥 AI CCTV Dashboard — Case Study
+# 🎥 EdgeSafe AI CCTV System — Case Study
 
 > **Real-time, multi-tenant video intelligence platform** that turns ordinary RTSP CCTV cameras into an AI-driven security and operations system: face recognition, person/vehicle tracking, loitering alerts, Bangla license-plate ANPR, fire/smoke detection, and industrial conveyor counting.
 
-> 🔒 **The source code is in a private repository.** This page is an architecture and engineering case study. Code walkthroughs are available on request.
+> 🔒 **EdgeSafe's source code is in a private repository.** This page is an architecture and engineering case study. Code walkthroughs are available on request.
 
 ![Status](https://img.shields.io/badge/status-production--grade_prototype-brightgreen)
 ![Role](https://img.shields.io/badge/role-Solution_Architect_%26_Lead_Engineer-blue)
